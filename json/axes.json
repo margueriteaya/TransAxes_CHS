@@ -1,152 +1,151 @@
 [
 	{
 		"id": "iden",
-		"name": "Identity",
+		"name": "身份识别",
 		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
 		"left": {
-			"name": "Tucute",
+			"name": "性别维新",
 			"color": "#ffaa33",
-			"description": "Those with higher Tucute scores believe that transgender identity is not inherently tied to dysphoria. They support including non-dysphoric trans people under the trans umbrella, tend to support the validity of non-binary and non-traditional gender identities, and tend to oppose gatekeeping."
+			"description": "原文“Tucute”是“Too cute to be cisgender”的缩写，意为“太可爱了以至于做不了顺性别”。该项得分较高的人认为，跨儿身份本质上和性别不安无关。他们支持将没有性别不安的跨儿纳入跨性别群体伞下，倾向于承认非二元与非传统性别身份，并反对“守门员”行为。"
 		},
 		"right": {
-			"name": "Transmed",
+			"name": "传统价值",
 			"color": "#60d0b0",
-			"description": "Those with higher Transmed scores believe that transgender identity is inherently tied to gender dysphoria. They support setting standards for what it means to be trans, tend to believe that gender dysphoria is an observable medical condition, and often believe in a gender binary of male and female."
+			"description": "原文“Transmed”是“Transmendicalist”的缩写，意为“跨医疗主义者”，该项得分较高的人认为，跨性别身份本质上和性别不安有关。他们支持为跨性别制造一系列标准，倾向于承认性别不安是一种可观测的医学症状，并且通常支持性别二元论。"
 		},
 		"tiers": [
-			"Esoteric",
-			"Strongly Tucute",
-			"Tucute",
-			"Inclusive",
-			"Ambivalent",
-			"Normative",
-			"Transmedicalist",
-			"Strongly Transmedicalist",
-			"Blaire White"
+			"世界多元性别共和国",
+			"撕毁跨儿文化不扩散条约",
+			"“进来坐坐嘛，来都来了”",
+			"先摇几个人再说",
+			"“我想一个人，但我害怕孤独”",
+			"一般通过",
+			"第一要务是补子",
+			"一夫当关万夫莫开",
+			"审核制地下小团体"
 		]
 	},
 	{
 		"id": "pol",
-		"name": "Political",
+		"name": "政治立场",
 		"weights": [10, 20, 15, 10, 15, 20, 10],
 		"left": {
-			"name": "Left",
+			"name": "左逼",
 			"color": "#ff6666",
-			"description": "Those with higher Left scores are politically left-leaning. They tend to support higher social equality and equal civil rights and opportunity for all, and tend to oppose neoliberal capitalism, among other forms of oppression."
+			"description": "该项得分较高的人在政治上左倾。他们倾向于支持更高水平的社会平等，支持公民权利与机会平等，并反对新自由主义、权贵阶层以及任何形式的压迫。"
 		},
 		"right": {
-			"name": "Right",
+			"name": "邮购",
 			"color": "#5090ff",
-			"description": "Those with higher Right scores are politically right-leaning. They tend to favor economic deregulation, patriotism, and possibly other conservative principles, and tend to believe in certain forms of natural hierarchy in society."
+			"description": "该项得分较高的人在政治上右倾。他们倾向于支持发挥市场作用、放开经济管制、民族主义等其他的保守原则，并认同社会中存在的某种形式的等级制度。"
 		},
 		"tiers": [
-			"Far Left",
-			"Left Wing",
-			"Center Left",
-			"Centrist",
-			"Center Right",
-			"Right Wing",
-			"Far Right"
+			"酷儿联合干翻世界！",
+			"泛左翼",
+			"中间偏左",
+			"站中间，但可能不是C位和领导席",
+			"中间偏右",
+			"泛右翼",
+			"祖宗之法变不得啊！"
 		]
 	},
 	{
 		"id": "vis",
-		"name": "Visibility",
+		"name": "可见度",
 		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
 		"left": {
-			"name": "Vocalized",
+			"name": "大鸣大放",
 			"color": "#c060ff",
-			"description": "Those with higher Vocalized scores favor a more vocal approach to trans activism. They tend to support large trans public figures, be they in real life or online, and tend to view the discussion of trans-related issues as an open, active affair that everyone participates in."
+			"description": "该项得分较高的人在跨性别运动中更倾向于采用积极的方式。无论二三次元，他们都倾向于支持跨性别公众人物，并将跨性别议题视为一项开放、积极和人人参与的公共事务。"
 		},
 		"right": {
-			"name": "Low Profile",
+			"name": "低调做人",
 			"color": "#60c040",
-			"description": "Those with higher Low Profile scores favor a more modest approach to trans activism. They tend to favor one-on-one conversation over public discourse, both in real life and online, and at high values, they may favor a lowering of the general visibility of trans people."
+			"description": "该项得分较高的人在跨性别运动中更倾向于采用温和的方式。无论二三次元，他们都倾向于一对一的交流，而不是公开讨论。在高分数段的人倾向于降低跨性别的整体可见度。"
 		},
 		"tiers": [
-			"Human Megaphone",
-			"Influencer",
-			"Outspoken",
-			"Advocate",
-			"Neutral",
-			"Mellow",
-			"Withdrawn",
-			"Private",
-			"Invisible"
+			"神楽坂46不动C位",
+			"那个什么娘的皇帝",
+			"游行队伍的一员",
+			"出街包上挂雷达",
+			"出柜与否无所谓",
+			"外面太哈人了下水道躲躲先",
+			"难道我不是顺人吗",
+			"深柜中",
+			"隐入尘烟"
 		]
 	},
 	{
 		"id": "soc",
-		"name": "Societal",
+		"name": "社会实践",
 		"weights": [10, 15, 10, 10, 10, 10, 10, 15, 10],
 		"left": {
-			"name": "Liberation",
+			"name": "解放主义",
 			"color": "#ff60ff",
-			"description": "Those with higher Liberation scores seek to liberate the trans community from cis-normative societal expectations and institutions. They tend to favor building a unique and proud identity in being transgender, and oppose many social norms, especially those that give cis people an edge in society."
+			"description": "该项得分较高的人倾向于把跨性别群体从顺性别主导的社会规范与制度中解放出来，期望建立跨性别自身的独立、骄傲的身份，并反对许多社会规范，以顺性别在社会中保持优势的规范为标的。"
 		},
 		"right": {
-			"name": "Assimilation",
+			"name": "融入主义",
 			"color": "#ffd030",
-			"description": "Those with higher Assimilation scores seek to assimilate trans people into cis-dominated society, usually out of either a need for survival, or skepticism of radical elements in the trans liberation movement. They tend to favor adherence to social norms, both aesthetically and behaviorally."
+			"description": "该项得分较高的人通常出于生存的需求对跨性别解放运动中的激进分子表示怀疑，倡导跨性别者的同化，融入到以顺性别为主的社会中，并在审美和行为上遵守社会规范。"
 		},
 		"tiers": [
-			"Cisphobic",
-			"Unyielding",
-			"Liberating",
-			"Progressive",
-			"Reformist",
-			"Conventional",
-			"Assimilative",
-			"Conservative",
-			"Transphobic"
+			"消灭顺直暴政，世界属于酷儿！",
+			"残忍变性女巫",
+			"跨儿解放军",
+			"世界潮流浩浩荡荡",
+			"修正药业",
+			"地球人",
+			"和地球一起右转",
+			"恐跨跨子与清蒸管理"
 		]
 	},
 	{
 		"id": "phil",
-		"name": "Philosophy",
+		"name": "哲学观点",
 		"weights": [15, 15, 15, 10, 15, 15, 15],
 		"left": {
-			"name": "Abstract",
+			"name": "抽象派",
 			"color": "#20a0c0",
-			"description": "Those with higher Abstract scores believe that being trans is an abstract experience that occurs first and foremost in the mind. They tend to enjoy discussing theories related to the trans experience, be more idealistic about its possibilities, and see it as an intellectual field to be expanded upon."
+			"description": "该项得分较高的人认为，跨性别是一种抽象的体验，首先出现在意识之中。他们往往偏好讨论与跨性别体验相关的理论，对跨性别的可能持更加理想化的态度，并将其视为一个有待发掘的知识领域。"
 		},
 		"right": {
-			"name": "Concrete",
+			"name": "实在派",
 			"color": "#b86010",
-			"description": "Those with higher Concrete scores believe that being trans is a concrete experience that encompasses tangible steps and observable outcomes. They tend to believe in a realistic or even pessimistic outlook of the trans experience, and tend to be less concerned with the theoretical and idealistic."
+			"description": "该项得分较高的人认为，跨性别是一种具体、实在的体验，包括切实的步骤和可观测的结果。他们倾向对跨性别经历持有现实甚至悲观的态度，而较少谈论理论，缺乏理想主义。"
 		},
 		"tiers": [
-			"Conjectural",
-			"Idealist",
-			"Theoretical",
-			"Syncretic",
-			"Pragmatic",
-			"Realist",
-			"Utilitarian"
+			"红牌楼的守望者",
+			"看理想小编",
+			"学院派跨儿",
+			"同步巧合",
+			"实事求是向前看",
+			"少陵野老转世",
+			"老中平均水平"
 		]
 	},
 	{
 		"id": "mind",
-		"name": "Mindset",
+		"name": "文化心态",
 		"weights": [15, 15, 15, 10, 15, 15, 15],
 		"left": {
-			"name": "Zoomer",
+			"name": "令和新选组",
 			"color": "#f8f8f8",
-			"description": "Those with higher Zoomer scores have a cultural mindset more aligned with stereotypical Generation Z transgender culture. They tend to be well-versed in trans-related tropes, jokes, and memes online, and tend to value the internet as a hub of the trans community."
+			"description": "该项分数较高的人的文化心态更符合Z世代跨儿文化的刻板印象。他们往往精通网路社群上和跨性别有关的迷因、笑话和流行语，并倾向于将网际网路视为跨儿社群的中心。"
 		},
 		"right": {
-			"name": "Boomer",
+			"name": "平成LOVE",
 			"color": "#666666",
-			"description": "Those with higher Boomer scores have a cultural mindset more out of touch with stereotypical Generation Z transgender culture. They tend to be less well-versed in the happening and trends of the online trans community, and at times, skeptical of modern transgender culture."
+			"description": "该项分数较高的人，文化心态与Z世代跨儿文化较为脱节。他们往往不太了解网路跨儿社群的动态和趋势，有时还对当代跨儿文化持怀疑态度。"
 		},
 		"tiers": [
-			"Ultra Zoomer",
-			"Zoomer",
-			"Somewhat Zoomer",
-			"Balanced",
-			"Somewhat Boomer",
-			"Boomer",
-			"Ultra Boomer"
+			"Vogue封面人物",
+			"造梗者",
+			"弄潮儿",
+			"平衡与调和",
+			"回归虚元",
+			"活在金色时代",
+			"“我是旧时代的残党，新时代没有能承载我的船”"
 		]
 	}
 ]

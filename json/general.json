@@ -1,10 +1,10 @@
 {
 	"title": "TransAxes",
-	"version": "v. Beta 1.31",
+	"version": "Version 0.1-alpha-CHS 基于原版Beta 1.31",
 	"github": "https://github.com/NotAquaHeart/TransAxes",
 	"link": "https://NotAquaHeart.github.io/TransAxes",
-	"description": "TransAxes is a test made by a trans person, for trans people, measuring attitudes on many issues commonly touched on and discussed within the trans community worldwide.<br><br>More information:<br>- Partially inspired by TransValues<br>- Takes about 10 minutes to complete<br>- The statements do not necessarily represent the test creator's personal views<br>- For concerns, inquiries, and suggestions concerning the test, contact the Twitter account linked at the top of the page<br>",
-	"valQuestion": "What are the axes?",
-	"valDescription": "The 6 axes measured on this test are the Identity, Political, Visibility, Societal, Philosophy, and Mindset axes, which are explained in more detail below.",
+	"description": "TransAxes是由跨儿制作，为跨儿准备的赛博算命，用于测量全球跨儿群体中经常涉及的许多问题的态度。<br><br>更多讯息：<br>- 部分灵感来自TransValues（跨儿价值）<br>- 算命时间大约十分钟<br>- 题目中涉及的观点不代表制作者本人及译者的观点<br>- 若有问题、咨询和建议，请联系页面顶部链接的Twitter<br>- 若对翻译有意见，请联系Twitter@Angel_involked<br>",
+	"valQuestion": "这些轴代表什么？",
+	"valDescription": "本测试测量的6个轴分别是身份识别轴、政治立场轴、社会观点轴、哲学观点轴和文化心态轴。下文将对这6个轴进行详细说明。",
 	"mainFont": "Montserrat"
 }

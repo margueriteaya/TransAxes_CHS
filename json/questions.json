@@ -1,7 +1,7 @@
 [
     {
         "number": 1,
-        "question": "We should be skeptical of trans people who have the opportunity to medically transition, but do not do so.",
+        "question": "我们应该对那些明明有条件进行跨性别医疗但却不这么做的人保持怀疑态度。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -13,7 +13,7 @@
     },
     {
         "number": 2,
-        "question": "Being trans cannot be biologically explained.",
+        "question": "跨儿的身份不能用生物学上的观点解释。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -25,7 +25,7 @@
     },
     {
         "number": 3,
-        "question": "Vigilantly enforcing national unity under traditional values is a necessary answer to the leftism of the modern age.",
+        "question": "在传统价值观下，大力弘扬民族团结，是应对当代左倾思潮的必要之举。",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -37,7 +37,7 @@
     },
     {
         "number": 4,
-        "question": "Quizzes like this are a waste of time.",
+        "question": "做这种赛博算命纯粹是在浪费时间。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -49,7 +49,7 @@
     },
     {
         "number": 5,
-        "question": "It's okay for trans people to befriend cis people.",
+        "question": "跨儿和顺性别交朋友没什么问题。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -61,7 +61,7 @@
     },
     {
         "number": 6,
-        "question": "Being visibly trans is good.",
+        "question": "让人一眼认出自己是跨儿是一件好事。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -73,7 +73,7 @@
     },
     {
         "number": 7,
-        "question": "Advocating too radically for liberation can harm the trans community.",
+        "question": "过于激进地去声张解放会对跨儿们造成伤害。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -85,7 +85,7 @@
     },
     {
         "number": 8,
-        "question": "To preserve the integrity of its struggles, the trans community must actively gatekeep itself from transtrenders.",
+        "question": "为了保持队伍的纯洁性，我们群体必须要仔细排查想混入其中的人，严防跟风跨混入。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -97,7 +97,7 @@
     },
     {
         "number": 9,
-        "question": "A mellower approach to activism benefits the trans community.",
+        "question": "用更温和的方式争取权利对跨性别群体是有益的。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -109,7 +109,7 @@
     },
     {
         "number": 10,
-        "question": "I admire the participants of the Stonewall Riots.",
+        "question": "我钦佩石墙运动的参与者/我钦佩白纸运动中的多元性别活动分子。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -121,7 +121,7 @@
     },
     {
         "number": 11,
-        "question": "As members of the trans community, fighting for trans rights is a duty.",
+        "question": "“去游行，去武汉天街，因为这是我的责任。”",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -133,7 +133,7 @@
     },
     {
         "number": 12,
-        "question": "Gender dysphoria is a social construct.",
+        "question": "性别不安是社会建构的产物。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -145,7 +145,7 @@
     },
     {
         "number": 13,
-        "question": "Mainstream trans activism suffers from cis appropriation.",
+        "question": "顺人偷窃了主流跨儿运动的果实。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -157,7 +157,7 @@
     },
     {
         "number": 14,
-        "question": "From each according to their ability, to each according to their needs.",
+        "question": "“能力越大，责任越大。”我想如果我发达了，我会去帮助那些无家可归的跨儿们。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -169,7 +169,7 @@
     },
     {
         "number": 15,
-        "question": "Breaking taboos by speaking out against them is good.",
+        "question": "通过公开反对去打破禁忌是好文明。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -181,7 +181,7 @@
     },
     {
         "number": 16,
-        "question": "Trans people, not cis people, should lead the dialogue on trans-related issues.",
+        "question": "跨儿议题应该由跨儿自己主导，而不是让观察者网等等一系列的二流小报瞎几把乱BB。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -193,7 +193,7 @@
     },
     {
         "number": 17,
-        "question": "Certain aspects of the trans experience can be a source of humor.",
+        "question": "跨性别体验的某些方面拿来当乐子没什么不妥。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -205,7 +205,7 @@
     },
     {
         "number": 18,
-        "question": "Depressed trans people should urge themselves to take action in improving their lives.",
+        "question": "跨儿里的蕾子们应该做点什么去改变生活，而不是整天家里蹲。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -217,7 +217,7 @@
     },
     {
         "number": 19,
-        "question": "An unregulated market economy is important to a healthy society.",
+        "question": "不被干涉的市场经济对一个健康的社会十分重要。",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -229,7 +229,7 @@
     },
     {
         "number": 20,
-        "question": "Certain people are simply better than others.",
+        "question": "不管是天赋还是能力还是家境，有些人就是比其他人强。",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -241,7 +241,7 @@
     },
     {
         "number": 21,
-        "question": "Being trans in itself is not a physical experience, but a fully mental one.",
+        "question": "跨性别本身并不是一种生理体验，而是一种完全的精神体验。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -253,7 +253,7 @@
     },
     {
         "number": 22,
-        "question": "I am uncomfortable with trans people who do not pass well.",
+        "question": "我看那些不pass的跨子不顺眼。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -265,7 +265,7 @@
     },
     {
         "number": 23,
-        "question": "Being trans is, at best, something to mitigate the negative effects of.",
+        "question": "跨性别最多只能减少一部分负面心理，我们的焦虑和抑郁并不只有性别这一方面。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -277,7 +277,7 @@
     },
     {
         "number": 24,
-        "question": "Being trans can be better than being cis.",
+        "question": "做跨儿比做顺子好多了。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -289,7 +289,7 @@
     },
     {
         "number": 25,
-        "question": "Ratioing transphobes online is a valid form of activism.",
+        "question": "在网路上对恐跨人重拳出击是一种有效的行动形式。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -301,7 +301,7 @@
     },
     {
         "number": 26,
-        "question": "The average trans person just wants to live their life without being a vocal activist.",
+        "question": "大多数跨儿都只是想做日子人而不是为社群发声。这没什么好指摘的。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -313,7 +313,7 @@
     },
     {
         "number": 27,
-        "question": "Capitalism is the trans person's greatest enemy.",
+        "question": "精英、权贵和上位者是跨儿的最大敌人。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -325,7 +325,7 @@
     },
     {
         "number": 28,
-        "question": "Undergoing hormone therapy and medical procedures are inevitably part of the trans experience.",
+        "question": "接受激素替代和性别重置手术等医疗手续是跨性别体验不可分割的一部分。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -337,7 +337,7 @@
     },
     {
         "number": 29,
-        "question": "Binary trans people are not problematic.",
+        "question": "二元跨没什么问题。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -349,7 +349,7 @@
     },
     {
         "number": 30,
-        "question": "4chan in its entirety, including /tttt/, should be avoided.",
+        "question": "应该避免清蒸协会/贴吧全体尤其是“你们今天也很可爱吧”那种地方的出现。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -361,7 +361,7 @@
     },
     {
         "number": 31,
-        "question": "Anyone is trans if they say so.",
+        "question": "如果一个人声明他是跨性别，那他就是跨性别。",
         "effect": {
             "iden": 20,
             "pol": 0,
@@ -373,7 +373,7 @@
     },
     {
         "number": 32,
-        "question": "You need dysphoria to be trans.",
+        "question": "你应该有性别不安才能成为跨性别。",
         "effect": {
             "iden": -20,
             "pol": 0,
@@ -385,7 +385,7 @@
     },
     {
         "number": 33,
-        "question": "Passing is a transphobic idea.",
+        "question": "要求跨儿一定要pass是一种恐跨的想法。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -397,7 +397,7 @@
     },
     {
         "number": 34,
-        "question": "Trans people should seek to assimilate into society instead of standing out.",
+        "question": "跨儿们应该努力融入社会，而不是大搞身份政治和政治正确。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -409,7 +409,7 @@
     },
     {
         "number": 35,
-        "question": "Society will always be cis-normative, and trans people should make peace with that.",
+        "question": "在这个社会上，顺性别永远都是正常、符合规范的啊，跨儿们应该接受这一点。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -421,7 +421,7 @@
     },
     {
         "number": 36,
-        "question": "I prefer the times when trans-related topics were outside mainstream discussion.",
+        "question": "我怀念跨性别议题不被媒体涉及的时期。（中国方面参考夏士莲与早期药娘吧时期）",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -433,7 +433,7 @@
     },
     {
         "number": 37,
-        "question": "Hoodie-wearing is an important part of trans culture.",
+        "question": "跨儿们穿粉蓝白卫衣是跨儿文化很重要的一部分。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -445,7 +445,7 @@
     },
     {
         "number": 38,
-        "question": "When educating cis people on trans-related issues, the one-on-one conversation is more powerful than the public statement.",
+        "question": "在给顺性别传授跨性别相关知识时，一对一的谈话比公开演讲更有说服力。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -457,7 +457,7 @@
     },
     {
         "number": 39,
-        "question": "Xenogenders are not valid gender identities.",
+        "question": "超人类性别（星星性别、鼠鼠性别等）并不是有效的性别认同。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -469,7 +469,7 @@
     },
     {
         "number": 40,
-        "question": "Being trans makes people politically shift leftward, and that's good.",
+        "question": "做跨儿有利于培养左人，这是好的。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -481,7 +481,7 @@
     },
     {
         "number": 41,
-        "question": "'Transsexual' is an outdated term.",
+        "question": "“变性人”是一个过时的词汇。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -493,7 +493,7 @@
     },
     {
         "number": 42,
-        "question": "Transition goals should be realistic.",
+        "question": "跨性别的目标应该实际一点。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -505,7 +505,7 @@
     },
     {
         "number": 43,
-        "question": "The trans communities on Twitter and Discord should be avoided.",
+        "question": "应该避免跨儿社群在Twitter等公共社交网路上活动。（译者注：原文指Twitter和Discord两个较左倾的社区，Discord在中国的生态同位体为QQ，但QQ上的跨性别社群讨论氛围更为保守，因此放弃对Discord进行在地化翻译。）",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -517,7 +517,7 @@
     },
     {
         "number": 44,
-        "question": "Trans people nowadays face lesser challenges in life compared to trans people of decades ago.",
+        "question": "比起十几、几十年前的初代跨儿们，我们在当代生活中面临的困境更少一些。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -529,7 +529,7 @@
     },
     {
         "number": 45,
-        "question": "Certain social hierarchies, such as wealth and poverty, are natural and justified.",
+        "question": "像贫富那样的社会等级，是自然且合理的",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -541,7 +541,7 @@
     },
     {
         "number": 46,
-        "question": "A privatized healthcare system benefits trans people.",
+        "question": "公共医疗系统通常排队时间久、有国民健保的补贴，但私有化的医疗系统对跨儿好处更多。",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -553,7 +553,7 @@
     },
     {
         "number": 47,
-        "question": "I know what Blahaj is.",
+        "question": "我知道BLÅHAJ/布罗艾是什么。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -565,7 +565,7 @@
     },
     {
         "number": 48,
-        "question": "Trans people should stop making themselves manageable for cis-normative society.",
+        "question": "跨儿们不应听凭顺性别人群的话语。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -577,7 +577,7 @@
     },
     {
         "number": 49,
-        "question": "Not all transphobia is readily visible.",
+        "question": "有些恐跨行为只是隐藏得比较深。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -589,7 +589,7 @@
     },
     {
         "number": 50,
-        "question": "Young trans people these days don't appreciate how much they get in life.",
+        "question": "年轻的跨儿们根本就不知道他们当下的生活有多么的来之不易。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -601,7 +601,7 @@
     },
     {
         "number": 51,
-        "question": "The trans community should tolerate a wide spectrum of identities.",
+        "question": "跨性别群体应该接受更广泛的身份认同。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -613,7 +613,7 @@
     },
     {
         "number": 52,
-        "question": "Abolish gender roles.",
+        "question": "废除传统性别角色刻不容缓。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -625,7 +625,7 @@
     },
     {
         "number": 53,
-        "question": "Undergoing shifts in philosophical worldview is inevitably part of the trans experience.",
+        "question": "哲学上的世界观转变是跨性别体验不可分割的一部分。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -637,7 +637,7 @@
     },
     {
         "number": 54,
-        "question": "The Minecraft bee is trans.",
+        "question": "世界计划：多彩舞台 feat.初音未来里的晓山瑞希和崩坏：星穹铁道里的三月七是跨性别。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -649,7 +649,7 @@
     },
     {
         "number": 55,
-        "question": "Social equality is no less important than economic growth.",
+        "question": "社会平等重要程度不亚于经济增长。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -661,7 +661,7 @@
     },
     {
         "number": 56,
-        "question": "Far left sentiments in the trans community are bad.",
+        "question": "跨性别群体中的极左情绪是坏文明。",
         "effect": {
             "iden": 0,
             "pol": -10,
@@ -673,7 +673,7 @@
     },
     {
         "number": 57,
-        "question": "Right-wing ideas have no place in the trans community.",
+        "question": "跨性别社群不应容忍右翼思潮。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -685,7 +685,7 @@
     },
     {
         "number": 58,
-        "question": "As a trans person, I prefer to keep my views on the world to myself.",
+        "question": "作为一个跨儿，我更愿意将自己对世界的看法自我保留，不向外诉说。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -697,7 +697,7 @@
     },
     {
         "number": 59,
-        "question": "Stringent medical evaluations for gender dysphoria are good.",
+        "question": "对性别不安进行严格的医学评估是一件好事。",
         "effect": {
             "iden": -10,
             "pol": 0,
@@ -709,7 +709,7 @@
     },
     {
         "number": 60,
-        "question": "Being trans can be a choice, and that's okay.",
+        "question": "成为跨性别可以是一个选择，这没什么坏的。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -721,7 +721,7 @@
     },
     {
         "number": 61,
-        "question": "I understand and appreciate the humor behind trans-related memes online.",
+        "question": "我理解并赞赏网路跨性别迷因背后的幽默",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -733,7 +733,7 @@
     },
     {
         "number": 62,
-        "question": "Educating cis people about trans-related issues is important.",
+        "question": "给顺性别指导跨性别相关议题是重要的。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -745,7 +745,7 @@
     },
     {
         "number": 63,
-        "question": "Trans public figures with large followings, in real life or online, are a positive influence.",
+        "question": "无论网路还是现实里，拥有大量社会关注的跨性别公众人物都会产生积极的影响。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -757,7 +757,7 @@
     },
     {
         "number": 64,
-        "question": "The working class should seize the means of production.",
+        "question": "工人阶级应该掌握生产资料。",
         "effect": {
             "iden": 0,
             "pol": 10,
@@ -769,7 +769,7 @@
     },
     {
         "number": 65,
-        "question": "The internet and its consequences have been a disaster for the trans community.",
+        "question": "网际网路的普及及其后果是跨性别群体的灾难。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -781,7 +781,7 @@
     },
     {
         "number": 66,
-        "question": "I talk a lot about my identity as a trans person and what it means to me.",
+        "question": "我经常谈论我的跨性别/多元性别身份及其对我的意义。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -793,7 +793,7 @@
     },
     {
         "number": 67,
-        "question": "Non-binary is a valid gender identity.",
+        "question": "非二元作为一项性别认同是合理的。",
         "effect": {
             "iden": 10,
             "pol": 0,
@@ -805,7 +805,7 @@
     },
     {
         "number": 68,
-        "question": "I prefer the older generations of trans activists over modern ones.",
+        "question": "比起现在的新人，我更钦佩老一辈的跨性别活动家。",
         "effect": {
             "iden": 0,
             "pol": 0,
@@ -817,7 +817,7 @@
     },
     {
         "number": 69,
-        "question": "Trans people should avoid the public eye.",
+        "question": "跨性别人群应该避开公众视线。",
         "effect": {
             "iden": 0,
             "pol": 0,
